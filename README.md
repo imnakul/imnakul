@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, 👋
 
 <!--
 **imnakul/imnakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
