@@ -30,14 +30,6 @@
 
 ###
 
-<h2 align="left">🛠️ Featured Projects:</h2>
-
-###
-
-<p align="left">- [Project Name](https://github.com/yourusername/project-repo): A web app for [solving X problem]. Built with React and Node.js.<br>- [Another Project](https://github.com/yourusername/another-project): An innovative tool for [purpose].</p>
-
-###
-
 <h2 align="left">📊 GitHub Stats:</h2>
 
 ###
@@ -51,11 +43,24 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imnakul/imnakul/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/imnakul/imnakul/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
+
+<h2 align="left">🛠️ Featured Projects:</h2>
+
+###
+
+<br><p align="left">- [ToDo App](https://github.com/imnakul/to-do-context-local) : A web app for Tasks List .</p>
+![image](https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704)
+
+<br><p align="left"> [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) : A Place to sell or rent your Property.</p>
+![image](https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd)
+
+###
+
 
 <h2 align="left">🌱 Currently Learning/Working:</h2>
 
@@ -69,6 +74,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -76,11 +82,12 @@
 
 ###
 
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imnakul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imnakul&icon=7&color=0)](https://visitcount.itsvg.in)
+-->
 
 
