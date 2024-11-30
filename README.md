@@ -66,11 +66,12 @@
 
 ###
 
-- <p align="left">=> Next.js <br>=> Portfolio website development</p>
+- <p align="left">Next.js 
+- Portfolio website development</p>
 
 ###
 
-- <h2 align="left">📫 Let's Connect!</h2>
+<h2 align="left">📫 Let's Connect!</h2>
 
 ###
 
