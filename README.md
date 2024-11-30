@@ -1,6 +1,6 @@
 <!-- [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/) -->
 
-<h1 align="left">Hi there! 👋,  <br> I'm Nakul 🌟</h1>
+<h1 align="left">Hi there! 👋, I'm Nakul 🌟</h1>
 
 ###
 
@@ -53,10 +53,10 @@
 
 ###
 
-<br><p align="left">- [ToDo App](https://github.com/imnakul/to-do-context-local) : A web app for Tasks List .</p>
+- <p align="left">ToDo App (https://github.com/imnakul/to-do-context-local) : A web app for Tasks List .</p>
 ![image](https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704)
 
-<br><p align="left"> [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) : A Place to sell or rent your Property.</p>
+- <p align="left"> [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) : A Place to sell or rent your Property.</p>
 ![image](https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd)
 
 ###
@@ -66,11 +66,11 @@
 
 ###
 
-<p align="left">=> Next.js <br>=> Portfolio website development</p>
+- <p align="left">=> Next.js <br>=> Portfolio website development</p>
 
 ###
 
-<h2 align="left">📫 Let's Connect!</h2>
+- <h2 align="left">📫 Let's Connect!</h2>
 
 ###
 
