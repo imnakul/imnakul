@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/) -->
 
-<h2 align="left">Hi there! 👋<br>I'm Nakul, a passionate developer who loves creating applications that solve everyday problems and make life easier. 🌟</h2>
+<h2 align="left">I'm Nakul, a passionate developer who loves creating applications that solve everyday problems and make life easier. 🌟</h2>
 
 ###
 
