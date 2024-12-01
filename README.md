@@ -60,16 +60,10 @@
 <h2 align="left">🛠️ Featured Projects:</h2>
 
 ###
-<!--
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" width="100" />
-  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" width="100" /> 
-</p>
--->
 
 To-Do             |  House-MarketPlace | Github-Finder
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="325" height="225"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="325" height="225"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="325" height="225">
+<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="350" height="225"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="350" height="225"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="350" height="225">
 Manage tasks Cross-Platform | A Place to sell or rent your Property | Find any github User and its Repositories
 [To-Do](https://github.com/imnakul/to-do-context-local)  |  [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) | [Github-Finder](https://github.com/imnakul/Github-Finder_using_Vite.js)
 
