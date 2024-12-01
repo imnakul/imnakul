@@ -1,10 +1,14 @@
 <!-- [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/) -->
 
-<h1 align="left">Hi there! 👋, I'm Nakul 🌟</h1>
+<h1> Hi there!, I'm Nakul  <img align="center" src="https://github.com/user-attachments/assets/1dbcad03-b128-41c0-83cf-fbb3d47b9e89" height=100" width="100" </h1> 
+
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
+<!-- 🌟👋 -->
 
 ###
 
 <h2 align="left">💻Skills & Tools:</h2>
+
 
 ###
 
@@ -30,6 +34,8 @@
 
 ###
 
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
+
 <h2 align="left">📊 GitHub Stats:</h2>
 
 ###
@@ -49,16 +55,36 @@
 
 <!-- <br clear="both"> -->
 
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
+
 <h2 align="left">🛠️ Featured Projects:</h2>
 
 ###
+<!--
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" width="100" />
+  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" width="100" /> 
+</p>
+-->
 
+To-Do             |  House-MarketPlace | Github-Finder
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="320" height="225"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="320" height="225"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="320" height="225">
+A web app for creating and completing tasks | A Place to sell or rent your Property | Find any github User and its Repositories
+[To-Do](https://github.com/imnakul/to-do-context-local)  |  [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) | [Github-Finder](https://github.com/imnakul/Github-Finder_using_Vite.js)
+
+
+<!--
 - <p align="left">ToDo App (https://github.com/imnakul/to-do-context-local) : A web app for Tasks List .</p>
-![image](https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704)
+<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="300" height="200">
+
+
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 
 - <p align="left"> [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) : A Place to sell or rent your Property.</p>
 ![image](https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd)
-
+-->
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 ###
 
 
@@ -66,10 +92,12 @@
 
 ###
 
-- <p align="left">Next.js 
-- Portfolio website development</p>
+- **Next.js** 
+- **Developing Portfolio**
 
 ###
+
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 
 <h2 align="left">📫 Let's Connect!</h2>
 
@@ -81,6 +109,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 ###
 
 <!--
