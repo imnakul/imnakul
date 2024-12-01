@@ -1,6 +1,6 @@
 <!-- [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/) -->
 
-<h1> Hi there!, I'm Nakul  <img align="center" src="https://github.com/user-attachments/assets/1dbcad03-b128-41c0-83cf-fbb3d47b9e89" height=100" width="100" </h1> 
+<h1> Hi there!, I'm Nakul  <img align="center" src="https://github.com/user-attachments/assets/1dbcad03-b128-41c0-83cf-fbb3d47b9e89" height="50" width="50" </h1> 
 
 ![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 <!-- 🌟👋 -->
@@ -69,21 +69,10 @@
 
 To-Do             |  House-MarketPlace | Github-Finder
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="320" height="225"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="320" height="225"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="320" height="225">
-A web app for creating and completing tasks | A Place to sell or rent your Property | Find any github User and its Repositories
+<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="325" height="225"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="325" height="225"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="325" height="225">
+Manage tasks Cross-Platform | A Place to sell or rent your Property | Find any github User and its Repositories
 [To-Do](https://github.com/imnakul/to-do-context-local)  |  [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) | [Github-Finder](https://github.com/imnakul/Github-Finder_using_Vite.js)
 
-
-<!--
-- <p align="left">ToDo App (https://github.com/imnakul/to-do-context-local) : A web app for Tasks List .</p>
-<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="300" height="200">
-
-
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
-
-- <p align="left"> [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) : A Place to sell or rent your Property.</p>
-![image](https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd)
--->
 ![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 ###
 
@@ -115,9 +104,9 @@ A web app for creating and completing tasks | A Place to sell or rent your Prope
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imnakul&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=imnakul&icon=7&color=0)](https://visitcount.itsvg.in)
 -->
+
+[![](https://visitcount.itsvg.in/api?id=imnakul&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 
