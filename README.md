@@ -12,6 +12,7 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
@@ -31,6 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+-->
 
 ###
 
