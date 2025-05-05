@@ -6,6 +6,7 @@
  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp4ZDMwZGV6YmV4aThhaWFmamE1bjc3emNwOHFhZmsxa2NrNmlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
+###
 I'm a Passionate Web Developer focused on Generative AI, creating responsive, innovative, and visually appealing modern web applications that make a real-world impact and enhance user experience through development and AI.
 
 ---
