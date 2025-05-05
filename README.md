@@ -1,108 +1,95 @@
-<!-- [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674929fd0015d7aab446/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/) -->
+<!-- ![Header](https://github.com/user-attachments/assets/1dbcad03-b128-41c0-83cf-fbb3d47b9e89) -->
 
-<h1> Hi there!, I'm Nakul  <img align="center" src="https://github.com/user-attachments/assets/1dbcad03-b128-41c0-83cf-fbb3d47b9e89" height="50" width="50" </h1> 
-
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
-<!-- 🌟👋 -->
-
-###
-
-<h2 align="left">💻Skills & Tools:</h2>
-
-
-###
-
-<!--
+# 👋 Hi there! I'm Nakul Srivastava
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
--->
-
-###
-
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnakul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnakul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=imnakul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imnakul&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="200" border-radius="50%"
+ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp4ZDMwZGV6YmV4aThhaWFmamE1bjc3emNwOHFhZmsxa2NrNmlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-###
+I'm a Passionate Web Developer focused on Generative AI, creating responsive, innovative, and visually appealing modern web applications that make a real-world impact and enhance user experience through development and AI.
 
-<!-- <img src="https://raw.githubusercontent.com/imnakul/imnakul/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<!-- <br clear="both"> -->
-
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
-
-<h2 align="left">🛠️ Featured Projects:</h2>
+---
 
 ###
 
-To-Do             |  House-MarketPlace | Github-Finder
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/user-attachments/assets/db8a1cd1-62ef-4aad-8052-55b55f268704" alt="To-Do App" width="300" height="200"> |  <img src="https://github.com/user-attachments/assets/963de55d-f02d-43dc-9fde-57c00ff1eacd" alt="House-MarketPlace" width="300" height="200"> |  <img src="https://github.com/user-attachments/assets/473db52f-89c0-450b-8030-075ccbfc0354" alt="GithubFinder" width="300" height="200">
-Manage tasks Cross-Platform | A Place to sell or rent your Property | Find any github User and its Repositories
-[To-Do](https://github.com/imnakul/to-do-context-local)  |  [House-MarketPlace](https://github.com/imnakul/house-marketplace-app) | [Github-Finder](https://github.com/imnakul/Github-Finder_using_Vite.js)
+## 🛠️ Tech Stack
 
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,redux,nextjs,github,ai,vercel" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Nakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imnakul&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnakul&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://streak-stats.demolab.com?user=imnakul&theme=dracula)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=imnakul&radius=16&theme=react&area=true&order=5)
+
+</div>
+
+
+## 🚀 Featured Projects
+
+### [Portfolio](https://github.com/imnakul/My_Portfolio_2.0)
+Next.Js, Framer-Motion, Tailwind Css with my AI Twin
+
+### [FlexiTASKS](https://github.com/imnakul/to-do-context-local)
+A minimal yet feature-rich task manager with animated themes, flexible modes, and views for personalized productivity.
+
+### [House Marketplace](https://github.com/imnakul/house-marketplace-app)
+A platform where property owners can list, rent, or sell their properties, while renters and buyers can easily explore and find their ideal space.
+
+
+
+## 🚀 Projects Gallery
+
+<div align="left" >
+  
+![InterviewSphere](https://github.com/user-attachments/assets/43989307-b2b7-44a1-a960-021bc92ad0c9)
+![Portfolio](https://github.com/user-attachments/assets/5777da9a-a07d-4675-95c6-eab747102deb)
+![HouseMarketplace](https://github.com/user-attachments/assets/5d26a52e-a9f3-476a-bd36-1ce5a9335165)
+![FlexiTasks](https://github.com/user-attachments/assets/e0910b0a-7938-4789-8537-739ed0269e63)
+![ProductivePulse](https://github.com/user-attachments/assets/cb6b0539-8890-4e07-a5cc-3ba49cb99aa5)
+
+</div>
+
+
+## 🔥 Recent Articles
+<div align="left">
+  <a href="https://llmsinaction.hashnode.dev/agents-llms-and-apis-a-developers-guide-to-local-ai-and-cloud-deployment" ><img src="https://github.com/user-attachments/assets/061a2ca2-c547-44f7-98ef-bee9f35fcdbc" height="200px" alt="Latest Article on Hashnode"  /></a>
+  <a href="https://aisimplified.hashnode.dev/decoding-ai-jargons-with-chai-chaicode" ><img src="https://github.com/user-attachments/assets/4d1e265d-aad9-475c-9150-b06707aabe72" height="200px" alt="Latest Article on Hashnode"  /></a>
+  <a href="https://ragsimplified.hashnode.dev/series/advanced-rag-query-optimization-techniques" ><img src="https://github.com/user-attachments/assets/22559f1a-5e68-4b2f-bc55-52198e493519" height="200px" alt="Latest Article on Hashnode"  /></a>
+</div>
+
+
 ###
 
 
-<h2 align="left">🌱 Currently Learning/Working:</h2>
 
-###
+## 🌱 Currently Learning
 
-- **Next.js** 
-- **Developing Portfolio**
+- **Next.js**: Exploring server-side rendering and static site generation.
+- **Gen AI**: Building RAG Applications using LangChain , LangSmith , Neo4j, Qdrant.
 
-###
+---
 
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
-
-<h2 align="left">📫 Let's Connect!</h2>
-
-###
-
+## 📫 Let's Connect
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <a href="https://www.linkedin.com/in/imnakul/" target="_blank" > <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin Link" /> </a> 
+  <a href="https://x.com/imnakul_1?t=kE6SVznWCPS3rCFFUEXPAg&s=09" target="_blank" >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter link"  /></a>
+  <a href="https://t.me/i_m_nakul" target="_blank" >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 </div>
 
-![border](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
 ###
 
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imnakul&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-
-[![](https://visitcount.itsvg.in/api?id=imnakul&icon=7&color=0)](https://visitcount.itsvg.in)
-
-
-
+![Footer](https://github.com/user-attachments/assets/3069c561-91a2-426f-8ff5-b4351980b3e7)
