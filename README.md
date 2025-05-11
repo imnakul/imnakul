@@ -4,7 +4,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="700px">
+      <td width="500px">
         I'm a Passionate Web Developer focused on Generative AI, creating responsive, innovative, and visually appealing modern web applications that make a real-world impact and enhance user experience through development and AI.
         <br></br>
         Skilled in UI development using JavaScript and React, with a focus on integrating AI to enhance the performance and usability of Applications.
