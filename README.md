@@ -82,6 +82,14 @@
     </td>
   </tr>
   <tr>
+    <td width="30%"><a href="https://krishna-janamleela.vercel.app"><img src="assets/krishna-leela.png" alt="Krishna Leela" width="100%"/></a></td>
+    <td width="70%" valign="middle">
+      <b>Krishna Leela</b><br/>
+      An immersive 3D journey through the life of Krishna from the Bhagavata Purana, told as twelve painted scenes you scroll through.<br/>
+      <sub>Web · 3D</sub> &nbsp;·&nbsp; <a href="https://krishna-janamleela.vercel.app">Website</a>
+    </td>
+  </tr>
+  <tr>
     <td width="30%"><a href="https://doc-style-portfolio.vercel.app"><img src="assets/portfolio.png" alt="Docs-style Portfolio" width="100%"/></a></td>
     <td width="70%" valign="middle">
       <b>Docs-style Portfolio</b><br/>
