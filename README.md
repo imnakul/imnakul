@@ -1,7 +1,5 @@
 ## Hi, I'm Nakul
 
-**Product-focused developer & frontend architect.** 
-
 ---
 
 ### Products
