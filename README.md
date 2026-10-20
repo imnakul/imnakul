@@ -1,8 +1,8 @@
 ## Hi, I'm Nakul
 
----
+- Working on **[Hari](https://github.com/imnakul/hari---Multiagent-Harness-with-Task-Session-Manager)**: a multi-agent harness with a task and session manager for coding agents
 
-### Products
+----
 
 <p align="center">
   <a href="https://madhav.app"><img src="assets/madhav.png" alt="Madhav" width="640"/></a>
@@ -16,7 +16,7 @@ Local-first productivity sidebar for notes, tasks, ideas, bookmarks and reminder
 <br/>
 
 <p align="center">
-  <a href="https://venu.nakulsrivastava.com"><img src="assets/venu.png" alt="Venu" width="640"/></a>
+  <a href="https://venu.nakulsrivastava.com"><img src="https://github.com/user-attachments/assets/fe7ea7dc-f361-4a46-bad0-a9fe467b6891" alt="Venu" width="640"/></a>
 </p>
 <p align="center">
 <b>Venu</b> &nbsp;<img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat-square" alt="Open Source" align="absmiddle"/><br/>
@@ -38,7 +38,7 @@ Lightweight capture toolkit for screenshots, screen recording, showcases and dra
 <br/>
 
 <p align="center">
-  <a href="https://smaran.nakulsrivastava.com"><img src="assets/smaran.png" alt="Smaran" width="640"/></a>
+  <a href="https://smaran.nakulsrivastava.com"><img src="https://github.com/user-attachments/assets/17e39bb4-48d0-43b9-842b-dcb1e7d504b1" alt="Smaran" width="640"/></a>
 </p>
 <p align="center">
 <b>Smaran</b> &nbsp;<img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat-square" alt="Open Source" align="absmiddle"/><br/>
@@ -49,7 +49,7 @@ Offline-first app for reminders, learnings, quotes and habits, with optional two
 <br/>
 
 <p align="center">
-  <a href="https://github.com/imnakul/claude-codex-analytics"><img src="assets/analytics.png" alt="Local Claude &amp; Codex Analytics" width="640"/></a>
+  <a href="https://github.com/imnakul/claude-codex-analytics"><img src="https://github.com/user-attachments/assets/5c589e1e-29d0-4a58-8d9a-0fd69391b7d4" alt="Local claude & codex Analytics" width="640"/></a>
 </p>
 <p align="center">
 <b>Local Claude &amp; Codex Analytics</b> &nbsp;<img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat-square" alt="Open Source" align="absmiddle"/><br/>
@@ -123,10 +123,5 @@ Developer portfolio in the style of Matt Pocock's AI Hero docs, with a live GitH
 <sub>Next.js · Tailwind</sub> &nbsp;·&nbsp; <a href="https://doc-style-portfolio.vercel.app">Website</a> · <a href="https://github.com/imnakul/doc-style-portfolio">GitHub</a>
 </p>
 
-### Currently building
-
-- **[Hari](https://github.com/imnakul/hari---Multiagent-Harness-with-Task-Session-Manager)**: a multi-agent harness with a task and session manager for coding agents
-
 ---
 
-<sub>TypeScript · React · Next.js · Rust · Tailwind · Node.js · Supabase · Firebase</sub>
