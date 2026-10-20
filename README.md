@@ -82,7 +82,12 @@
       Developer portfolio in the style of Matt Pocock's AI Hero docs, with a live GitHub heatmap and light/dark themes.<br/>
       <sub>Next.js · Tailwind</sub> &nbsp;·&nbsp; <a href="https://doc-style-portfolio.vercel.app">Website</a> · <a href="https://github.com/imnakul/doc-style-portfolio">GitHub</a>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/imnakul/hide-profile"><img src="assets/hide-profile.png" alt="Hide Profile" width="100%"/></a><br/>
+      <b>Hide Profile</b> &nbsp;<img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat-square" alt="Open Source" align="absmiddle"/><br/>
+      Chrome extension that blurs, hides or replaces profile pictures across social feeds, with optional swear-word masking. No tracking.<br/>
+      <sub>Chrome extension</sub> &nbsp;·&nbsp; <a href="https://github.com/imnakul/hide-profile">GitHub</a>
+    </td>
   </tr>
 </table>
 
