@@ -1,8 +1,6 @@
 ## Hi, I'm Nakul
 
-**Product-focused developer & frontend architect.** I build free, local-first tools for desktop, mobile and the web.
-
-[nakulsrivastava.com](https://nakulsrivastava.com) · [X](https://x.com/imnakul) · [Peerlist](https://peerlist.io/imnakul)
+**Product-focused developer & frontend architect.** 
 
 ---
 
